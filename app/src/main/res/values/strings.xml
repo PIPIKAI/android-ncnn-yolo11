@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">android-ncnn-yolo11</string>
+    <string-array name="model_array">
+        <item>yolo11n</item>
+        <item>yolo11s</item>
+    </string-array>
+    <string-array name="cpugpu_array">
+        <item>CPU</item>
+        <item>GPU</item>
+    </string-array>
+    <string-array name="labels">
+        <item>person</item>
+        <item>bicycle</item>
+        <item>car</item>
+        <item>motorcycle</item>
+        <item>airplane</item>
+        <item>bus</item>
+        <item>train</item>
+        <item>truck</item>
+        <item>boat</item>
+        <item>traffic light</item>
+        <item>fire hydrant</item>
+        <item>stop sign</item>
+        <item>parking meter</item>
+        <item>bench</item>
+        <item>bird</item>
+        <item>cat</item>
+        <item>dog</item>
+        <item>horse</item>
+        <item>sheep</item>
+        <item>cow</item>
+        <item>elephant</item>
+        <item>bear</item>
+        <item>zebra</item>
+        <item>giraffe</item>
+        <item>backpack</item>
+        <item>umbrella</item>
+        <item>handbag</item>
+        <item>tie</item>
+        <item>suitcase</item>
+        <item>frisbee</item>
+        <item>skis</item>
+        <item>snowboard</item>
+        <item>sports ball</item>
+        <item>kite</item>
+        <item>baseball bat</item>
+        <item>baseball glove</item>
+        <item>skateboard</item>
+        <item>surfboard</item>
+        <item>tennis racket</item>
+        <item>bottle</item>
+        <item>wine glass</item>
+        <item>cup</item>
+        <item>fork</item>
+        <item>knife</item>
+        <item>spoon</item>
+        <item>bowl</item>
+        <item>banana</item>
+        <item>apple</item>
+        <item>sandwich</item>
+        <item>orange</item>
+        <item>broccoli</item>
+        <item>carrot</item>
+        <item>hot dog</item>
+        <item>pizza</item>
+        <item>donut</item>
+        <item>cake</item>
+        <item>chair</item>
+        <item>couch</item>
+        <item>potted plant</item>
+        <item>bed</item>
+        <item>dining table</item>
+        <item>toilet</item>
+        <item>tv</item>
+        <item>laptop</item>
+        <item>mouse</item>
+        <item>remote</item>
+        <item>keyboard</item>
+        <item>cell phone</item>
+        <item>microwave</item>
+        <item>oven</item>
+        <item>toaster</item>
+        <item>sink</item>
+        <item>refrigerator</item>
+        <item>book</item>
+        <item>clock</item>
+        <item>vase</item>
+        <item>scissors</item>
+        <item>teddy bear</item>
+        <item>hair drier</item>
+        <item>toothbrush</item>
+    </string-array>
+</resources>
