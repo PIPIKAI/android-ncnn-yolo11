@@ -1,4 +1,8 @@
 ## ncnn-android-yolov8-obb
+## 更新：
+### 关于如何导出三个输出的模型 
+
+查看issues置顶 https://github.com/PIPIKAI/android-ncnn-yolo11/issues/4
 
 ### 项目预览
 
